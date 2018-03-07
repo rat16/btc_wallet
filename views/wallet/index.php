@@ -7,6 +7,7 @@
 <font color="red" size=6>6、本网站代码开源地址 https://github.com/rat16/btc_wallet</font><br />
 <font color="blue" size=4>比特币分叉币币种:</font><br /><br />
 <select id="btc_type">
+	<option value="rvn">RVN</option>
 	<option value="cdy">CDY</option>
 	<option value="bcx">BCX</option>
 	<option value="bcd">BCD</option>
