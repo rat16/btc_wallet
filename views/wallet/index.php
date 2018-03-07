@@ -15,13 +15,13 @@
 	<option value="sbtc">SBTC</option>
 	<option value="btc">BTC</option>
 </select><br /><br />
-<button type="submit" id="btn_click">获取新地址和私钥</button><br /><br />
+<button type="submit" id="btn_click">获取新地址和私钥(Get your addr and private_key)</button><br /><br />
 
 =======================================================<br /><br />
 <font color="red" size=6>您的<span id="btc_title"></span>地址为：</font><br />
-<font color="red" size=6>地址:</font>
+<font color="red" size=6>地址(addr):</font>
 <div id="btc_addr"></div><br /><br />
-<font color="red" size=6>私钥:</font>
+<font color="red" size=6>私钥(private_key):</font>
 <div id="btc_priv_key"></div><br /><br />
 =======================================================<br /><br />
 <br /><br />
